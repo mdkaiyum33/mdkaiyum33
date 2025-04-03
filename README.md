@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<hr>
+<h1> Certificates </h1>
+<a href = "https://www.credly.com/badges/9c650e1b-58bd-4eb4-91d9-51b4913c95d8" > <img src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" width=70px/> </a>
 <!--
 **mdkaiyum33/mdkaiyum33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

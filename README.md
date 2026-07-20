@@ -1,4 +1,5 @@
 ## Hi there
+>   Computer science is no more about computers than astronomy is about telescopes. 
 
 <hr>
 <!-- <h1> Certificates </h1>
@@ -19,4 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
->   Computer science is no more about computers than astronomy is about telescopes. 
